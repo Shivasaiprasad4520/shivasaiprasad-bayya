@@ -4,3 +4,5 @@
 ## Azure Project
 ## Docker Project
 ## Kubernectes Project
+## Terraform Project
+## Observability Project
